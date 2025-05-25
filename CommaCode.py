@@ -9,6 +9,4 @@ def comma_code(lst):
 def main():
     spam = ['apples', 'bananas', 'tofu', 'cats']
     print(comma_code(spam))
-
-if __name__ == "__main__":
-    main()
+main()
