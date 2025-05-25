@@ -22,6 +22,4 @@ def main():
     num_flips = 100
     streak_length = 6
     print(experiment(num_experiments, num_flips, streak_length))
-
-if _name_ == "_main_":
-    main()
+main()
